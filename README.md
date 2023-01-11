@@ -1,7 +1,7 @@
 # APLIKASI ANDROID
-###### Aplikasi android sederhana untuk menampilkan inputan data kedalam listview
+###### Aplikasi android sederhana untuk menampilkan inputan data kedalam listview edit oleh Alivia ari
 
 ### Dibuat Oleh :
-##### Mochamad Idris
+##### Alivia Ari Nuswantoro
 ### NIM
-##### G.111.21.1989
+##### G.131.21.0028
